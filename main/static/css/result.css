@@ -240,22 +240,22 @@ button:hover {
     color: #fff;
 }
 
-.weniv {
+.logo {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.weniv a {
+.logo a {
     width: 100px;
 }
 
-.weniv img{
+.logo img{
     width: 100%;
     height: auto;
 }
 
-.weniv p {
+.logo p {
     padding-top: 20px;
     font-size: 10px;
     text-align: center;

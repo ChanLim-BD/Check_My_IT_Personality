@@ -53,3 +53,4 @@ def result(request, developer_id):
         'developer': developer,
     }
     return render(request, 'result.html', context=context)
+
