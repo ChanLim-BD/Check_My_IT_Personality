@@ -8,4 +8,4 @@
 ![Image](https://github.com/user-attachments/assets/a107d69a-f2c8-4622-b279-86ff11c88a27)
 
 ## 결과 페이지
-![Image](https://github.com/user-attachments/assets/d9af1e42-6db5-41ee-b487-38007661fa81)
+![Image](https://github.com/user-attachments/assets/852266af-5ca8-40d2-9751-36c42648d5b2)
