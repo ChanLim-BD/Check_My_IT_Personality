@@ -1,9 +1,11 @@
 # Check_My_IT_Personality
 나의 개발 유형 찾기 - Django 연습
 
-# App Development Configurations
-1. Django v4.2.17
-2. Reset CSS v2.0
+## 🛠️ **Technology Stack**
+
+- **Backend**: Django (Python)
+- **Frontend**: HTML, Reset CSS v2.0, JavaScript, Bootstrap5
+- **Database**: SQLite3 (-> PostgreSQL soon...)
 
 ## Main
 ![Image](https://github.com/user-attachments/assets/1c2ea7a9-e82e-4c28-8622-9ad1c47a4dd9)
